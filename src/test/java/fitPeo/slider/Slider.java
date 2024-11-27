@@ -16,7 +16,7 @@ public class Slider {
 	@FindBy(xpath="//span[@data-index='0']")
 	WebElement slider;
 
-	@FindBy(css="#\\:r1\\:")
+	@FindBy(xpath="//*[@type=\"number\"]")
 	WebElement TextFieldbox;
 
 	@FindBy(xpath="(//input[@type='checkbox'])[1]")
