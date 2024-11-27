@@ -1,0 +1,9 @@
+Prerequisites:
+
+1.Eclipse should be installed with TestNG plugin
+2.Java 8 or above installed in machine
+3.Google Chrome
+
+Steps to execute
+1.Extract and Add project to the Eclipse
+2.Run The HomePage.java class to test the steps
